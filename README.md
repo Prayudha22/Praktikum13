@@ -38,9 +38,11 @@
 
 ### Python
 1. Kujungi tautan berikut untuk proses instalasinya : https://www.python.org/
+
 ![gambar](img/1.png)
 
 3. Selanjutnya buka Command Promt lalu ketik python untuk melihat versi python
+
 ![gambar](img/2.png)
 
 #### Request
@@ -51,15 +53,18 @@
 #### BeautifulSoup
 * BeautifulSoup merupakan library yang digunakan untuk proses web scraping halaman HTML dan XML.
 * Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah ini :
+
 ![gambar](img/4.png)
 
 #### Pandas
 * Pandas adalah library open source pada Python yang sering digunakan untuk memproses data yang meliputi pembersihan data, manipulasi data, hingga melakukan analisis data. Ketika melakukan suatu analisis, kita tidak bisa menggunakan data mentah.
 * Penggunaan Pandas umumnya disingkat menjadi pd. Format penulisan saat akan memanggil library Pandas adalah import pandas as pd. Ingat untuk selalu import library yang akan digunakan terlebih dahulu.
 * Untuk menginstallnya menggunakan perintah pip, seperti pada gambar di bawah ini :
+
 ![gambar](img/5.png)
 
 * Untuk melihat daftar package yang telah terinstall gunakan perintah pip list
+
 ![gambar](img/6.png)
 
 #### Google Colab
@@ -67,19 +72,24 @@
 2. Kemudian klik File
 3. Kemudian buat Notebook Baru
 4. Beri nama proyeknya, untuk tampilannya seperti pada gambar di bawah ini :
+
 ![gambar](img/7.png)
 
 5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti gambar di bawah ini :
+
 ![gambar](img/8.png)
 
 6. Kemudian ketik program yang akan di jalankan (Studi Kasus 1: Jadwal Sholat (URL:https://jadwalsholat.org/jadwal-sholat/monthly.php))
+
 ![gambar](img/9.png)
 
 7. Untuk tampilan lengkapnya sebagai berikut :
+
 ![gambar](img/10.png)
 
 
 8. Jika sudah benar dan berhasildi RUN maka akan menghasilkan output seperti gambar di bawah ini :
+
 ![gambar](img/11.png)
 
 # Sekian dan Terimakasih
