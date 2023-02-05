@@ -77,7 +77,6 @@
 
 7. Untuk tampilan lengkapnya sebagai berikut :
 ![gambar](img/10.png)
-![gambar](img/10%20(1).png)
 
 8. Jika sudah benar dan berhasildi RUN maka akan menghasilkan output seperti gambar di bawah ini :
 ![gambar](img/11.png)
