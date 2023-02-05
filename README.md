@@ -68,12 +68,17 @@
 3. Kemudian buat Notebook Baru
 4. Beri nama proyeknya, untuk tampilannya seperti pada gambar di bawah ini :
 ![gambar](img/7.png)
+
 5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti gambar di bawah ini :
 ![gambar](img/8.png)
+
 6. Kemudian ketik program yang akan di jalankan (Studi Kasus 1: Jadwal Sholat (URL:https://jadwalsholat.org/jadwal-sholat/monthly.php))
 ![gambar](img/9.png)
+
 7. Untuk tampilan lengkapnya sebagai berikut :
 ![gambar](img/10.png)
+
+
 8. Jika sudah benar dan berhasildi RUN maka akan menghasilkan output seperti gambar di bawah ini :
 ![gambar](img/11.png)
 
